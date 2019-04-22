@@ -1,5 +1,5 @@
 % By KHOA NGO
-% Return the Fourier Series of a function 'f' to the 'n'-th degree.
+% Returns the Fourier Series of a function 'f' to the 'n'-th degree.
 
 function FS = FourierSeries(f, n)
 
